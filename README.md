@@ -1,8 +1,6 @@
-# GoIT_Web_homework_10
-Django project
+# GoIT_Web_homework_13-2
+Django project 
 
-https://hub.docker.com/repository/docker/vskesha/hw10project/general
+- Added password reset via email
+- All secret variables are in `.env` file
 
-`docker pull vskesha/hw10project` for getting docker image and 
-
-`docker run --name quotes -p 8000:8000 -d vskesha/hw10project` and browse to `localhost:8000`
